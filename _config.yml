@@ -1,26 +1,24 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink: pretty
 
 # Setup
-title:            Jongkyung Lee
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content.'
-url:              https://ss309125-sys.github.io
-baseurl:          /
+title: Jongkyung Lee
+tagline: 'A Jekyll theme'
+description: 'A brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.'
+url: "https://ss309125-sys.github.io"
+baseurl: ""
 
 author:
-  name:           'Jongkyung Lee'
-  url:            https://ss309125-sys.github.io
+  name: 'Jongkyung Lee'
+  url: "https://ss309125-sys.github.io"
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.1.0
+version: 2.1.0
 
 github:
-  repo:           https://github.com/ss309125-sys/ss309125-sys.github.io
+  repo: "ss309125-sys/ss309125-sys.github.io"

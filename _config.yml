@@ -5,7 +5,7 @@ highlighter: rouge
 permalink: pretty
 
 # Setup
-title: Jongkyung Lee
+title: Jongkyung <br> Lee
 tagline: 'A Jekyll theme'
 description: 'A brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.'
 url: "https://ss309125-sys.github.io"

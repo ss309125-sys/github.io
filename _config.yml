@@ -8,7 +8,7 @@ permalink: pretty
 title: |
   Jongkyung
   Lee
-tagline: 'Learning, Solving, and Recording'
+subtitle: 'Learning, Solving, and Recording'
 description: 'A brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.'
 url: "https://ss309125-sys.github.io"
 baseurl: ""

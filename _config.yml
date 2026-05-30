@@ -5,7 +5,9 @@ highlighter: rouge
 permalink: pretty
 
 # Setup
-title: <h1 style="text-align: center;">Jongkyung<br>Lee</h1>
+title: |
+  Jongkyung
+  Lee
 tagline: 'Learning, Solving, and Recording'
 description: 'A brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.'
 url: "https://ss309125-sys.github.io"
